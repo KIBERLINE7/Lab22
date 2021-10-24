@@ -1,0 +1,13 @@
+﻿  Lab22.cpp
+C:\Users\val17\source\repos\Lab22\Lab22\Lab22.cpp(22,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\val17\source\repos\Lab22\Lab22\Lab22.cpp(22,22): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\val17\source\repos\Lab22\Lab22\Lab22.cpp(25,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\val17\source\repos\Lab22\Lab22\Lab22.cpp(25,21): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\val17\source\repos\Lab22\Lab22\Lab22.cpp(9,12): warning C4101: buf: неиспользованная локальная переменная
+C:\Users\val17\source\repos\Lab22\Lab22\Lab22.cpp(76,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\val17\source\repos\Lab22\Lab22\Lab22.cpp(76,22): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\val17\source\repos\Lab22\Lab22\Lab22.cpp(124,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\val17\source\repos\Lab22\Lab22\Lab22.cpp(137,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\val17\source\repos\Lab22\Lab22\Lab22.cpp(66,12): warning C4101: buf: неиспользованная локальная переменная
+C:\Users\val17\source\repos\Lab22\Lab22\Lab22.cpp(237,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Lab22.vcxproj -> C:\Users\val17\source\repos\Lab22\Debug\Lab22.exe
